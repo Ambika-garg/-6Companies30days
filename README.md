@@ -3,3 +3,4 @@
 ## Solving the DSA questions on the following compaines:
 1. Goldmann Sachs
 2. Amazon
+3. Microsoft
